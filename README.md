@@ -1,4 +1,4 @@
-Kế thừa – đa hình
+/*Kế thừa – đa hình
 OPP 1 [Kế thừa - Đa hình]. Bài 1. Kế thừa lớp Person
 •	Problem
 •	Submissions
@@ -56,7 +56,7 @@ Sample Output 0
 0007 Nguyen Phuong Hai 14/01/2004 Nam Dinh DTVT1 3.05
 + hàm chuẩn hóa ngày sinh viết trong lớp cha luôn để vài bữa kế thừa cho êm .
 
-
+*/
 #include<bits/stdc++.h>
 using namespace std;
 class Person{
